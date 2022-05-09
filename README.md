@@ -3,5 +3,4 @@ The data is sent to server in JSON format. There is mandatory parameter to run s
 
 Run:
 python3 sample_data.py [serverIP]
-    
-    [serverIP] is websocket server IP without port
+        [serverIP] is websocket server IP without port
